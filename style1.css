@@ -1,0 +1,41 @@
+.left{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}  
+
+.right{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.colour{
+    background-color: rgba(184, 214, 145, 0.836);
+    height: 120px;
+    margin-top: 10px;
+}
+
+.font{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    font-size: 18px;
+    color:rgb(97, 18, 18)
+}
+
+.font2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px; 
+}
+
+.colour2{
+    background-color: rgb(105, 199, 221);
+    font-size: 30px;
+    color:rgb(9, 6, 6)
+}
+
+.para{
+    font-size: 17px;
+}
